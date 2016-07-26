@@ -1,3 +1,4 @@
+package ariba.buyer.vrealm_3;
 
 import java.math.BigDecimal;
 import javax.xml.bind.JAXBElement;
