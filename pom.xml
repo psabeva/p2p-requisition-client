@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-		<sourceDirectory>ariba/buyer/vrealm_3</sourceDirectory>
+		<sourceDirectory>/</sourceDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
